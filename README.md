@@ -25,7 +25,7 @@ const troy = {
 };
 ```
 
-> *Student who born and raised in Bali | Passionate about technology, coding, and continuous growth in IT.
+> *A kid who born and raised in Bali | Passionate about technology, coding, and continuous growth in IT.
 .*
 
 ---
