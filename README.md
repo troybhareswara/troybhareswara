@@ -12,7 +12,7 @@
 
 ---
 
-## 🌺 About Me
+## About Me
 
 ```javascript
 const troy = {
@@ -62,7 +62,7 @@ const troy = {
 
 ---
 
-## 🐍 Contribution Graph — Pacman
+## 🐍 My Contribution Graph
 
 <div align="center">
 
@@ -90,7 +90,7 @@ const troy = {
 
 <div align="center">
 
-*⚡ "The best error message is the one that never shows up." — Thomas Fuchs*
+*⚡ "I know of no better life purpose than to perish in attempting the great and the impossible." — Friedrich Wilhelm*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
 
