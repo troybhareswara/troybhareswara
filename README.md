@@ -25,7 +25,8 @@ const troy = {
 };
 ```
 
-> *Born and raised in the Island of the Gods, I channel Bali's creative spirit into every line of code I write. Currently on a mission to craft beautiful, functional web experiences.*
+> *Student who born and raised in Bali | Passionate about technology, coding, and continuous growth in IT.
+.*
 
 ---
 
