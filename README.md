@@ -21,7 +21,7 @@ const troy = {
   from    : "Bali, Indonesia 🌴",
   role    : "Student & Full-Stack Developer",
   studying: "Informatics / Computer Science",
-  motto   : "Write code like poetry — clean, expressive, and meaningful.",
+  motto   : "Keep ur eyes on the stars - and ur feet on the ground.",
 };
 ```
 
