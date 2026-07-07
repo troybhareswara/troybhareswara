@@ -21,8 +21,7 @@ const troy = {
   from    : "Bali, Indonesia 🌴",
   role    : "Student & Full-Stack Developer",
   studying: "Informatics / Computer Science",
-  motto   : "Keep ur eyes on the stars - and ur feet on the ground.",
-};
+
 ```
 
 > *A kid who born and raised in Bali | Passionate about technology, coding, and continuous growth in IT.
