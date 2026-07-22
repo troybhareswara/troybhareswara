@@ -8,10 +8,10 @@
 
 ## About Me
 
-I'm a Full-Stack Developer based in Bali, Indonesia, currently studying Informatics / Computer Science. I build web applications end-to-end — from database design to frontend implementation and deployment.
+I'm a 20 years old Full-Stack Developer based in Bali, Indonesia, currently studying Informatics / Computer Science. I build web applications end-to-end, from database design to frontend implementation and deployment.
 
 - 🌴 Based in Bali, Indonesia
-- 🎓 Studying Informatics / Computer Science
+- 🎓 Studying Informatics / Computer Science at Universitas Pendidikan Nasional
 - 💼 Currently building and maintaining [eliteoperates.com](https://eliteoperates.com), a live production website
 - 🚀 Focused on writing clean, maintainable, and scalable code
 
@@ -44,6 +44,8 @@ I'm a Full-Stack Developer based in Bali, Indonesia, currently studying Informat
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 **AI-Assisted Development**
 
