@@ -1,97 +1,74 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Troy+%F0%9F%91%8B;Full-Stack+Developer+from+Bali." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=00D9FF&center=true&vCenter=true&width=550&lines=Gede+Troy+Wiswama+Bhareswara;Full-Stack+Developer" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=troybhareswara&label=Profile+Views&color=00d9ff&style=flat-square" alt="profile views" />
-
-</div>
-
----
-
 ## About Me
 
-```javascript
-const troy = {
-  name    : "Gede Troy Wiswama Bhareswara",
-  age     : 20,
-  from    : "Bali, Indonesia 🌴",
-  role    : "Student & Full-Stack Developer",
-  studying: "Informatics / Computer Science",
+I'm a Full-Stack Developer based in Bali, Indonesia, currently studying Informatics / Computer Science. I build web applications end-to-end — from database design to frontend implementation and deployment.
 
-```
+- 🌴 Based in Bali, Indonesia
+- 🎓 Studying Informatics / Computer Science
+- 💼 Currently building and maintaining [eliteoperates.com](https://eliteoperates.com), a live production website
+- 🚀 Focused on writing clean, maintainable, and scalable code
 
-> *A kid who born and raised in Bali | Passionate about technology, coding, and continuous growth in IT.
-.*
+<br/>
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Frameworks**
 
-**Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Databases**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## 📊 GitHub Stats
+**Tools & Platforms**
 
-<div align="center">
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
+**AI-Assisted Development**
 
-</div>
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 
-<div align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=troybhareswara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+## Featured Project
 
-</div>
+**[eliteoperates.com](https://eliteoperates.com)** — Live production website built and maintained end-to-end, covering frontend, backend, and database.
 
----
+<br/>
 
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/troybhareswara/troybhareswara/9b8b5de0c985f4c54b9ebbdcf2e8c541858e1704/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/troybhareswara/troybhareswara/9b8b5de0c985f4c54b9ebbdcf2e8c541858e1704/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/troybhareswara/troybhareswara/9b8b5de0c985f4c54b9ebbdcf2e8c541858e1704/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📫 Connect With Me
+## GitHub Stats
 
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/troybhareswara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/troybhareswara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:troybhareswara@gmail.com)
-
+<img src="https://streak-stats.demolab.com?user=troybhareswara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="480" />
 </div>
 
----
+<br/>
 
-<div align="center">
+## Contact
 
-*⚡ "I know of no better life purpose than to perish in attempting the great and the impossible." — Friedrich Wilhelm*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/troybhareswara)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/troybhareswara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:troybhareswara@gmail.com)
