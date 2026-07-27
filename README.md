@@ -12,7 +12,7 @@ I'm a 20 years old Full-Stack Developer based in Bali, Indonesia, currently stud
 
 - 🌴 Based in Bali, Indonesia
 - 🎓 Studying Informatics / Computer Science at Universitas Pendidikan Nasional
-- 💼 Currently building and maintaining [eliteoperates.com](https://eliteoperates.com), a live production website
+- 💼 Currently building and maintaining system for [eliteoperates.com](https://eliteoperates.com), a property management website
 - 🚀 Focused on writing clean, maintainable, and scalable code
 
 <br/>
@@ -24,12 +24,14 @@ I'm a 20 years old Full-Stack Developer based in Bali, Indonesia, currently stud
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frameworks**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Databases**
 
