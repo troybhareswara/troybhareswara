@@ -59,7 +59,7 @@ I'm a 20 years old Full-Stack Developer based in Bali, Indonesia, currently stud
 
 ## Featured Project
 
-**[eliteoperates.com](https://eliteoperates.com)** — Live production website built and maintained end-to-end, covering frontend, backend, and database.
+**[eliteoperates.com](https://eliteoperates.com)** — A full-stack Property Management System (PMS) web application built and maintained end-to-end, covering database design, backend, frontend, and deployment.
 
 <br/>
 
